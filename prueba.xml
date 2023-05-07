@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>mi canal de RSS</title>
+        <link>https://luxury-kleicha-b96b50.netlify.app</link>
+        <description>Noticias de actualidad</description>
+        <item>
+            <title>noticia de actualida</title>
+            <link>https://elpais.com/mexico/</link>
+            <description>Noticias sobre el pais</description>
+        </item>
+    </channel>
+</rss>
