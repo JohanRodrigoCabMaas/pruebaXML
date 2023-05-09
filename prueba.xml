@@ -9,5 +9,10 @@
             <link>https://elpais.com/mexico/</link>
             <description>Noticias sobre el pais</description>
         </item>
+        <item>
+            <title>noticia de https</title>
+            <link>https://www.eluniversal.com.mx/</link>
+            <description>Noticias sobre el sida</description>
+        </item>
     </channel>
 </rss>
