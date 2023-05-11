@@ -10,9 +10,9 @@
             <description>Noticias sobre el pais</description>
         </item>
         <item>
-            <title>noticia de https</title>
+            <title>noticia de tecnologias</title>
             <link>https://www.eluniversal.com.mx/</link>
-            <description>Noticias sobre el sida</description>
+            <description>Noticias sobre</description>
         </item>
     </channel>
 </rss>
